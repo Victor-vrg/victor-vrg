@@ -3,8 +3,8 @@
 
 ## Sobre mim 
 <p> - Comecei minha jornada programando apenas brincando para criar bots, com isso fui descobrindo novas tecnologias e sempre tentando aprender mais.</p>
-<p> - o que era para ser apenas uma brincadeira foi me guiando a aprender sobre programação é nessa jornada fui aprendendo sobre: HTML, CSS ,JavaScript, Python,Controle de versão,Design responsivo </p>
-<p> - hoje entusiasta busco cada vez mais me capacitar apreendendo e aprofundando nas minhas areas de interesse </p>
+<p> - O que era para ser apenas uma brincadeira foi me guiando a aprender sobre programação é nessa jornada fui aprendendo sobre: HTML, CSS ,JavaScript, Python,Controle de versão,Design responsivo </p>
+<p> - Hoje entusiasta busco cada vez mais me capacitar apreendendo e aprofundando nas minhas areas de interesse </p>
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vrg&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-vrg&layout=compact)](https://github.com/victor-vrg/github-readme-stats)
