@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-vrg&layout=compact)](https://github.com/victor-vrg/github-readme-stats)
 
 ## 🎯Interesses
-<p>HTML, CSS, JavaScript, React, Python, Bootstrap,Computação em nuvem,SQL </p>
+<p>HTML, CSS, JavaScript, React, Node.Js, Express, Python, Bootstrap,Computação em nuvem,SQL </p>
 
 
 ## 💌Contato
