@@ -16,4 +16,4 @@
 ## 💌Contato
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:victorvrg2003@gmail.com)](mailto:victorvrg2003@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531997348194&text=Ol%C3%A1%2C%20eu%20vim%20do%20seu%20GitHub)](https://api.whatsapp.com/send?phone=5531997348194&text=Ol%C3%A1%2C%20eu%20vim%20do%20seu%20GitHub)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
