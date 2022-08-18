@@ -22,5 +22,8 @@
   <a href="mailto:victorvrg2003@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
+   <a href="https://api.whatsapp.com/send?phone=5531997348194&text=Ol%C3%A1%2C%20eu%20vim%20do%20seu%20GitHub">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+ 
 </p>
