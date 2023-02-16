@@ -6,8 +6,9 @@
 <p> - O que era para ser apenas uma brincadeira foi me guiando a aprender sobre programação é nessa jornada fui aprendendo sobre: HTML, CSS ,JavaScript, Python,Controle de versão,Design responsivo,SQL </p>
 <p> - Hoje entusiasta busco cada vez mais me capacitar apreendendo e aprofundando nas minhas areas de interesse </p>
 
-![Victor GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=victor-vrg&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=victor-vrg&layout=compact)](https://github.com/victor-vrg/github-readme-stats)
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vrg&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-vrg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🎯Interesses
 <p>HTML, CSS, JavaScript, React, Node.Js, Express, Python, Bootstrap,Computação em nuvem,PL/SQL </p>
