@@ -1,9 +1,9 @@
 ## Olá, eu sou o Victor ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-<p> - Sou Desenvolvedor  </p>
+<p> - Analista de Sistemas | Programação Orientada a Objetos | Metodologias Agile | Proativo e entusiasmado por solucionar problemas  </p>
 
 ## Sobre mim 
 <p> - Comecei minha jornada programando apenas brincando para criar bots, com isso fui descobrindo novas tecnologias e sempre tentando aprender mais.</p>
-<p> - O que era para ser apenas uma brincadeira foi me guiando a aprender sobre programação é nessa jornada fui aprendendo sobre: HTML, CSS ,JavaScript, Python,Controle de versão,Design responsivo,SQL </p>
+<p> - Estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em programação, adquiridos por meio de cursos e de forma independente. Possuo experiência em desenvolvimento de aplicações Web utilizando tecnologias como HTML, CSS, JavaScript, Bootstrap, Node.js, React, Express.js, Python e C#. Além disso, tenho conhecimento em programação estruturada (PE) e programação orientada a objetos (POO) , e também em metodologias ágeis como Scrum. Tenho experiência em linguagem Low-Code (OutSystems) e em Banco de Dados, como PL/SQL (Oracle) e MySQL.  </p>
 <p> - Hoje entusiasta busco cada vez mais me capacitar apreendendo e aprofundando nas minhas areas de interesse </p>
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vrg&show_icons=true&theme=dracula)
@@ -11,7 +11,7 @@
 
 
 ## 🎯Interesses
-<p>HTML, CSS, JavaScript, React, Node.Js, Express, Python, Bootstrap,Computação em nuvem,PL/SQL </p>
+<p>HTML, CSS, JavaScript, Bootstrap, Node.js, React, Express.js, Python, C#, programação estruturada, programação orientada a objetos, Scrum, OutSystems, PL/SQL, Oracle, MySQL.,Computação em nuvem </p>
 
 
 ## 💌Contato
