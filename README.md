@@ -3,7 +3,7 @@
 
 ## Sobre mim 
 <p> - Comecei minha jornada programando apenas brincando para criar bots, com isso fui descobrindo novas tecnologias.</p>
-<p> - Possuo experiência em desenvolvimento de aplicações Web utilizando tecnologias como HTML, CSS, JavaScript, Typescript, Bootstrap, Node.js, React, Express.js, Python e C#. Além disso, tenho conhecimento em programação estruturada (PE) e programação orientada a objetos (POO) , e também em metodologias ágeis como Scrum. Tenho experiência em linguagem Low-Code (OutSystems) e em Banco de Dados, como PL/SQL (Oracle) e MySQL. Padrão de arquitetura MVC   </p>
+<p> - Possuo experiência em desenvolvimento de aplicações Web utilizando tecnologias como HTML, CSS, JavaScript, Typescript, Bootstrap, Node.js, React, Express.js, Python e C#. Além disso, tenho conhecimento em programação estruturada (PE) e programação orientada a objetos (POO) , e também em metodologias ágeis como Scrum. Tenho experiência Low-Code (OutSystems) e em Banco de Dados, como PL/SQL (Oracle) e MySQL.   </p>
 <p> - Hoje entusiasta busco cada vez mais me capacitar apreendendo e aprofundando nas minhas areas de interesse </p>
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vrg&show_icons=true&theme=dracula)
