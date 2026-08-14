@@ -1,27 +1,10 @@
-## Olá, eu sou o Victor ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-<p> Desenvolvedor de Software | Tecnologias Web e Experiência em Programação Orientada a Objetos  |  AI, Cloud Computing e DevOps | Metodologias Agile  </p>
+# Victor Resende Gualberto
 
-## Sobre mim 
-<p> - Comecei minha jornada programando apenas brincando para criar bots, com isso fui descobrindo novas tecnologias.</p>
-<p> - Possuo experiência em desenvolvimento de aplicações Web utilizando tecnologias como HTML, CSS, JavaScript, Typescript, Bootstrap, Node.js, React, Express.js, Python e C#. Além disso, tenho conhecimento em programação estruturada (PE) e programação orientada a objetos (POO) , e também em metodologias ágeis como Scrum. Tenho experiência Low-Code (OutSystems) e em Banco de Dados, como PL/SQL (Oracle) e MySQL.   </p>
-<p> - Hoje entusiasta busco cada vez mais me capacitar apreendendo e aprofundando nas minhas areas de interesse </p>
+Construo sistemas que não podem parar de funcionar. OutSystems ODC, extensões .NET,
+automação orientada a IA — a stack certa depende do problema, não o contrário.
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vrg&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-vrg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ODC Associate Developer · Fundador, VRG Consultoria e Tecnologia
 
+---
 
-## 🎯Interesses
-<p> áreas de inteligência artificial (AI) e aprendizado de máquina, computação em nuvem (Cloud computing) e serviços de infraestrutura em nuvem, desenvolvimento de software e programação em diversas linguagens, gestão e modelagem de banco de dados e Práticas de DevOps e automação de processos. </p>
-
-
-## 💌Contato
-<p align='left'>
-  
-  <a href="https://www.linkedin.com/in/victorvrg/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-<a href="https://victor-vrg-portifolio.netlify.app">
- <img alt="Static Badge" src="https://img.shields.io/badge/Portifolio-fff2?style=for-the-badge" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/victorvrg/) · [Portfólio](https://victorgualberto.com.br) · [YouTube](https://www.youtube.com/@Victor-Gualberto)
