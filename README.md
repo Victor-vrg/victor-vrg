@@ -7,4 +7,4 @@ ODC Associate Developer · Fundador, VRG Consultoria e Tecnologia
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/victorvrg/) · [Portfólio](https://victorgualberto.com.br](https://victor-vrg-portifolio.netlify.app/) · [YouTube](https://www.youtube.com/@Victor-Gualberto)
+[LinkedIn](https://www.linkedin.com/in/victorvrg/) · [Portfólio](https://victor-vrg-portifolio.netlify.app/) · [YouTube](https://www.youtube.com/@Victor-Gualberto)
